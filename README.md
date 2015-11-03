@@ -1,3 +1,13 @@
+
+
+
+
+
+NOT SUCCESSFUL
+
+
+
+
 Hole Punch: UDP NAT Punching
 
 (c) Chris Kennelly (chris@ckennelly.com)
